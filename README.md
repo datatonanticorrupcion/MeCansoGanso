@@ -3,7 +3,7 @@ Una politóloga, un abogado, un físico-matemático, y un mecatrónico entran a 
 
 En la presente se documenta el trabajo de Ana, Edwin, José y Arturo en el reto Datatón 2018
 
-## Nuestra hipótesis
+## Nuestra hipótesis
 
 El número de Servidores Públicos sancionados por Dependencia de Gobierno son un indicador del posible nivel de corrupción de las mismas.
 
